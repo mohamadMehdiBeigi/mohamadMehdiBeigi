@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hello+there+i'm+mohamad+beigi;i'm+a+backend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+I'm+Mohamad+Beigi;I'm+A+Java+Developer)](https://git.io/typing-svg)
 
