@@ -12,4 +12,4 @@
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<img align="justify" alt="Coding" width="850" src="https://github.com/mohamadMehdiBeigi/mohamadMehdiBeigi/blob/main/image-asset.gif">
+<img src="https://github.com/mohamadMehdiBeigi/mohamadMehdiBeigi/blob/main/image-asset.gif">
